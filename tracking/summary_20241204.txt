@@ -1,0 +1,7 @@
+PumpFun Millionaire Tracker Summary - 2024-12-04
+========================================
+Total Current Millionaires: 726
+Historical Total: 663
+Highest PNL: $64,894,628.37
+Average PNL: $3,651,729.11
+Median PNL: $1,942,824.67

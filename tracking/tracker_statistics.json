@@ -1,0 +1,17 @@
+{
+    "date": "2024-12-04",
+    "total_current_millionaires": 726,
+    "historical_total": 663,
+    "new_today": 0,
+    "pnl_stats": {
+        "highest": 64894628.37,
+        "average": 3651729.1117630852,
+        "median": 1942824.67,
+        "total_combined": 2651155335.14
+    },
+    "categories": {
+        "1M-5M": 619,
+        "5M-10M": 69,
+        "10M+": 38
+    }
+}
